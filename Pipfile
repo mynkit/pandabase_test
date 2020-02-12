@@ -16,4 +16,6 @@ mysql-connector-python = "*"
 python_version = "3.6"
 
 [scripts]
+start = 'python main.py'
+init = 'make init'
 format = "autopep8 -ivr ."
