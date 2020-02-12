@@ -11,17 +11,26 @@ DROP TABLE IF EXISTS users;
 
 CREATE TABLE users (
   id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
-  name VARCHAR(256)
+  name VARCHAR(256),
+  age INT
 );
 
 INSERT INTO users (
   id,
-  name
+  name,
+  age
 ) VALUES (
   1,
-  "taro"
+  "taro",
+  20
 ),
 (
   2,
-  "jiro"
+  "jiro",
+  17
+),
+(
+  3,
+  "saburo",
+  18
 );
