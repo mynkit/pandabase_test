@@ -14,3 +14,6 @@ mysql-connector-python = "*"
 
 [requires]
 python_version = "3.6"
+
+[scripts]
+format = "autopep8 -ivr ."
