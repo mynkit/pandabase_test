@@ -27,9 +27,10 @@ pipenv run python checktable.py
 
 # 初期状態では
 #
-#   id  name
-# 0  1  taro
-# 1  2  jiro
+#   id  name   age
+# 0  1  taro   20
+# 1  2  jiro   17
+# 2  3  saburo 18
 #
 # が返ってくる
 ```
