@@ -2,8 +2,8 @@
 
 ## pandabase
 
-[pypi](https://pypi.org/project/pandabase/)
-[github](https://github.com/notsambeck/pandabase)
+* [pypi](https://pypi.org/project/pandabase/)
+* [github](https://github.com/notsambeck/pandabase)
 
 ## Required
 
